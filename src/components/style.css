@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  background-color: aqua;
+}
+
+table {
+  border-color: 1px solid rgb(0, 0, 0);
+  width: 600px;
+}
+/* границы ячеек первого ряда таблицы */
+th {
+  border-color: 1px solid rgb(0, 0, 0);
+}
+/* границы ячеек тела таблицы */
+td {
+  border: 1px solid rgb(78, 64, 64);
+}
