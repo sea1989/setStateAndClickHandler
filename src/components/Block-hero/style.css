@@ -1,0 +1,7 @@
+.classError {
+  border-block-color: red;
+}
+
+.classNoError {
+  border-block-color: black;
+}
